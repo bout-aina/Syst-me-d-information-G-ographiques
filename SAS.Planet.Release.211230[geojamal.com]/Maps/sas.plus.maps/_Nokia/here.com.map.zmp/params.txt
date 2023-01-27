@@ -1,0 +1,14 @@
+[PARAMS]
+pnum=6
+GUID={9A360A51-7A74-4001-8A12-D670BD739B7B}
+name_ru=Карта Here.com
+name=Here.com Map
+name_uk=Карта Here.com
+ParentSubMenu=Nokia
+ContentType=image/png
+DefURLBase=https://1.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/
+NameInCache=here.com.map
+EPSG=3785
+Ext=.png
+Version=RUS
+

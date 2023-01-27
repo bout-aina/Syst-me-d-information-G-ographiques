@@ -1,0 +1,1 @@
+select (sum(z.surface) / e.surface) * 100 as surfaceGlobal from Commun_azilal e ,zoneENB z

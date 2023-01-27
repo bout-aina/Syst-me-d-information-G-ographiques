@@ -1,0 +1,17 @@
+[PARAMS]
+pnum=17
+GUID={C91E1E37-8E29-42CB-946D-C812EC5FE327}
+name_ru=Карта Кубанской области 1902г.
+name=Kuban 1902
+ParentSubMenu_ru=Исторические\Кавказ
+ParentSubMenu=Historic\Kavkaz
+ParentSubMenu_uk=Історичні\Кавказ
+DefURLBase=http://91.237.82.95:8088/pub/historic/1902_kuban/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1902_kuban
+Ext=.jpg
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

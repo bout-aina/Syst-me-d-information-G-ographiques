@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=118
+GUID={AB8A8685-AEC6-4E16-80DA-DA4AC37E4777}
+asLayer=1
+name_ru=OpenMapSurfer (рельеф)
+name=OpenMapSurfer (hillshade)
+name_uk=OpenMapSurfer (рельєф)
+NameInCache=OSM_mapsurfer_hillshade
+DefURLBase=https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=OSM
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

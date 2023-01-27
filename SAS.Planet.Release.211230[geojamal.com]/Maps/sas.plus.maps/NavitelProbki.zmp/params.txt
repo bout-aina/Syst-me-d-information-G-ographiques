@@ -1,0 +1,15 @@
+[PARAMS]
+pnum=48
+GUID={9F3D706F-B180-40CE-9F95-037E9D61ABE7}
+name_ru=Пробки Navitel
+name=Navitel Probki
+asLayer=1
+DefURLBase=http://map.navitel.su/navitms.fcgi?j=
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=NavitelProbki
+Ext=.png
+Sleep=10
+DelAfterShow=1
+ContentType=image/png

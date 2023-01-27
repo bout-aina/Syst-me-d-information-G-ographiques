@@ -1,0 +1,1 @@
+select (sum(e.surface) / sum(a.surface))*100  from ENB e , Commun_azilal  a

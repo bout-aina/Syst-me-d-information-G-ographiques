@@ -1,0 +1,18 @@
+﻿
+[PARAMS]
+pnum=174
+GUID={63862E5D-09F2-4732-9D21-6350124302CB}
+name_ru=Карта Украины и Белоруссии (maps.visicom.ua)
+name=Map of Ukraine and Belarus (maps.visicom.ua)
+name_uk=Карта України та Білорусії (Візіком)
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local maps
+ParentSubMenu_uk=Локальні карти
+NameInCache=visicom_world_ru
+DefURLBase=https://tms0.visicom.ua/2.0.0/planet3/base_ru
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1

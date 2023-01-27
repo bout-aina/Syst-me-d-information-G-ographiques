@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=17
+GUID={5A1A7E89-112D-406F-855D-5B1D1E323422}
+name_ru=Спутник (Геопортал Роскосмоса)
+name=Satellite (Geoportal Roscosmos)
+ParentSubMenu_ru=Геопортал
+ParentSubMenu=Geoportal
+DefURLBase=http://geoportal.ntsomz.ru/coverages/&src=images&date=&type=jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=RoscosmosGeo
+separator=1
+Ext=.jpg
+UsePreloadPage=0
+ContentType="image/jpeg";"image/png"

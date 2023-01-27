@@ -1,0 +1,15 @@
+[PARAMS]
+pnum=175
+GUID={EC9E8E65-9A06-4543-B03E-F4A9286F1BB6}
+name_ru=Карта Молдавии (point.md)
+name=Moldova map (point.md)
+NameInCache=Point_md
+DefURLBase=http://storage.999.md:10001/1/
+ContentType=image/png
+defaultContentType=image/png
+ParentSubMenu_ru=Локальные карты
+ParentSubMenu=Local maps
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137

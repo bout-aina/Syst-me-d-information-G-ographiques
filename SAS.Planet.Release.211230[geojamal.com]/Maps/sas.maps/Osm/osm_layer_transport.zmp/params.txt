@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+pnum=115
+GUID={36e3746e-20f7-4861-82f9-911195f9de9b}
+asLayer=1
+name_ru=Транспорт OSM (osmosnimki.ru)
+name=Transport OSM (osmosnimki.ru)
+name_uk=Транспорт OSM (osmosnimki.ru)
+NameInCache=OSM_osmosnimki_pt
+DefURLBase=http://a.tile.osmosnimki.ru/pt
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+PARENTSUBMENU=OSM
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=© OpenStreetMap contributors, CC-BY-SA; rendering by kosmosnimki.ru

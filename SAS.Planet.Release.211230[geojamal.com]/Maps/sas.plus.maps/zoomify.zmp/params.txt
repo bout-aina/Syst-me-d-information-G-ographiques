@@ -1,0 +1,20 @@
+[PARAMS]
+pnum=130
+GUID={685E9146-DEC0-44EE-859F-111DEF70C6E2}
+name= (zoomify)
+NameInCache=zoomify
+DefURLBase=http://oldmaps.geolab.cz/3vm/75/4771/zoomify/TileGroup
+ContentType=image/jpeg
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
+ParentSubMenu_uk=Інші карти
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+separator=1
+DefHotKey=90
+TILERLEFT=0
+TILERRIGHT=256
+TILERTOP=0
+TILERBOTTOM=256

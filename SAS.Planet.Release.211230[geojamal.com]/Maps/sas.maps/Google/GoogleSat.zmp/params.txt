@@ -1,0 +1,16 @@
+﻿
+[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B57DF}
+name_ru=Спутник (Google)
+name=Satellite (Google maps)
+name_uk=Супутник (Google)
+ParentSubMenu=Google
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=sat
+Ext=.jpg
+DefHotKey=71
+ContentType=image/jpeg
+IsUseDownloaderInScript=1

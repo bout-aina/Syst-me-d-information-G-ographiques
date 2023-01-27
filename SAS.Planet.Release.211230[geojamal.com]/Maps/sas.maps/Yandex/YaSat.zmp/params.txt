@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=5
+GUID={5E04039A-331E-4D2C-B051-B00F8871BB39}
+name_ru=Спутник (Яндекс.Карты)
+name=Satellite (Yandex.Maps)
+name_uk=Супутник (Яндекс.Карты)
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
+ParentSubMenu_uk=Яндекс
+DefURLBase=https://sat01.maps.yandex.net/tiles?l=sat&scale=1&lang=ru_RU&x=
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=yasat
+Ext=.jpg
+DefHotKey=89
+ContentType=image/jpeg,image/pjpeg
+DetectContentType=1

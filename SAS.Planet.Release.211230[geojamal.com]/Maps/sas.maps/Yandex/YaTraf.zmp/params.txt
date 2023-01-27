@@ -1,0 +1,26 @@
+﻿
+[PARAMS]
+pnum=47
+GUID={C32B96AD-3AC5-4170-ADD7-47B2222AFC99}
+asLayer=1
+name_ru=Пробки (Яндекс.Карты)
+name=Traffic (Yandex.Maps)
+name_uk=Пробки (Яндекс.Карты)
+ParentSubMenu_ru=Яндекс
+ParentSubMenu=Yandex
+ParentSubMenu_uk=Яндекс
+NameInCache=yatraf
+DefURLBase=https://core-jams-rdr.maps.yandex.net/1.1/tiles?trf&l=trf&scale=1&lang=ru&x=
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+DefHotKey=54
+CacheType=9
+IsUseDownloaderInScript=1
+UseMemCache=1
+MemCacheCapacity=100
+MemCacheTTL=60000
+MemCacheClearStrategy=1
+RestartDownloadOnMemCacheTTL=1

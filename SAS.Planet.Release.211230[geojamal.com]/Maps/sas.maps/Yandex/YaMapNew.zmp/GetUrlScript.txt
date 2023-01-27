@@ -1,0 +1,6 @@
+var
+  vec: string;
+begin 
+ vec := RegExprReplaceMatchSubStr(GetURLBase, 'vec(\d+)\.', 'vec0' + IntToStr(1 + Random(3)) + '.' );
+ ResultURL := vec + '&x=' + IntToStr(GetX) + '&y=' + IntToStr(GetY) + '&z=' + IntToStr(GetZ-1);
+end.

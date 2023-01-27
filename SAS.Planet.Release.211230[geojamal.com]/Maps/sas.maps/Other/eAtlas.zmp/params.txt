@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+pnum=16
+GUID={63862E5D-09DB-4732-9D22-6350998802CB}
+name_ru=Карта (eAtlas)
+name=Map (eAtlas)
+name_uk=Карта (eAtlas)
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
+ParentSubMenu_uk=Інші карти
+NameInCache=eatlas
+DefURLBase=http://maps.eatlas.ru/getpict/map.aspx?ms=&sml=&ssl=&sst=&smx=0&smy=0&ssi=0&ssv=False&CP=ONL&cat=
+ContentType=image/gif
+Ext=.gif
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=1
+DefHotKey=69

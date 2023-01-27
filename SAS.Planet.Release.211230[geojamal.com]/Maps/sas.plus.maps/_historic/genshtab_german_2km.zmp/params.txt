@@ -1,0 +1,17 @@
+[PARAMS]
+pnum=114
+GUID={2914c383-7836-4383-8d1e-9f4142f92a4a}
+name_ru=1941 2km (1:20000)
+name=1941 2km (1:20000)
+NameInCache=genshtab_german_2km
+DefURLBase=http://91.237.82.95:8088/pub/historic/genshtab_german_2km/
+Ext=.jpg
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Исторические\Немецкий Генштаб
+ParentSubMenu=Historic\German Genshtab 
+ParentSubMenu_uk=Історичні\Немецкий Генштаб
+defaultContentType=image/jpeg
+ContentType="image/jpeg"
+MaxConnectToServerCount=1

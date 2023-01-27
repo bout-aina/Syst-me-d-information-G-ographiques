@@ -1,0 +1,14 @@
+[PARAMS]
+pnum=15
+GUID={A8B5CADE-FA15-492D-9BC2-BCBA7DCE888F}
+name=E_Atlas
+ParentSubMenu_ru=Другие карты
+ParentSubMenu=Other maps
+ParentSubMenu_uk=Інші карти
+NameInCache=Eatlas_New
+DefURLBase=http://www.eatlas.ru/IMAGES/
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752

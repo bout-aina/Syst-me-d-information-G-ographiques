@@ -1,0 +1,15 @@
+﻿
+[PARAMS]
+pnum=116
+GUID={D643C5A1-4331-4387-9BE2-DDDF185C117E}
+Name=MAPNIK (OpenStreetMap)
+ParentSubMenu=OSM
+NameInCache=osmmapMapnik
+DefURLBase=
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+DefHotKey=16463
+License=(c) OpenStreetMap contributors, CC-BY-SA

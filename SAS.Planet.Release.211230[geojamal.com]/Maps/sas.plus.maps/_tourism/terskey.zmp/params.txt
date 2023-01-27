@@ -1,0 +1,16 @@
+[PARAMS]
+pnum=17
+GUID={DA6A385B-F2A1-493A-BC9B-93FF43405C15}
+name_ru=Хребтовка Тянь-Шаня и Джунгарии
+name=Tyan-shan + Djungary
+ParentSubMenu_ru=Туристические
+ParentSubMenu=Tourism
+DefURLBase=http://map.g-utka.ru/
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=Terskey
+Ext=.png
+UsePreloadPage=0
+ContentType=image/png
+License=Детско-юношеский туристский клуб "Гадкий утёнок"

@@ -1,0 +1,10 @@
+begin 
+  ResultURL := 
+    'https://' + Chr(Ord('a') + Random(3)) + '.tile.openstreetmap.org/' + 
+    IntToStr(GetZ-1) + '/' + IntToStr(GetX) + '/' + IntToStr(GetY) + '.png';
+  
+  RequestHead := 
+    'User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0' + #13#10 +
+    'Referer: https://www.openstreetmap.org/' + #13#10 +
+    'Accept: image/webp,*/*';
+end.

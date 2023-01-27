@@ -1,0 +1,15 @@
+[PARAMS]
+pnum=6
+GUID={9A360A51-7A74-4002-8A12-D670BD739B7B}
+name_ru=Пробки Here.com
+name=Here.com Traffic
+name_uk=Пробки Here.com
+ParentSubMenu=Nokia
+ContentType=image/png
+DefURLBase=https://{s}.traffic.maps.api.here.com/maptile/2.1/traffictile/newest/normal.day/
+NameInCache=here.com.traffic
+EPSG=3785
+Ext=.png
+Version=RUS
+CacheType=9
+
